@@ -33,8 +33,8 @@ Step 7: Save and run the application.
 ```
 /*
 Program to print the contact name and phone number using content providers.
-Developed by: Praveena N
-Registeration Number : 212222040122
+Developed by: Jeya Krishna S J
+Registeration Number : 212222040064
 */
 ```
 
